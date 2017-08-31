@@ -1,4 +1,4 @@
-### Social media metatags templates
+### Social media meta tags templates
 
 ### Facebook Debugger
 
