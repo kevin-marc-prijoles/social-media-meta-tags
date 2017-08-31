@@ -6,7 +6,7 @@ https://developers.facebook.com/tools/debug
 
 ### Twitter validation tool
 
-https://dev.twitter.com/docs/cards/validation/validator
+https://cards-dev.twitter.com/validator
 
 ### I have used also a free bootstrap theme for the template of the website. You can check it out at the link below
 
